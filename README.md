@@ -1,4 +1,6 @@
-# Proofline: Live Claim Verifier UI
+# Live-Claim-Verifier
+
+Fact checker
 
 A responsive React interface for checking one claim against current web evidence. The UI does not produce verdicts itself; it sends a request to the fact-checking API and displays its result, confidence, evidence, and sources.
 
